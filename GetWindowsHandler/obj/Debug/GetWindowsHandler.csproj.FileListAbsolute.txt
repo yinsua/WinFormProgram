@@ -1,0 +1,9 @@
+E:\MyGit\WinFormProgram\GetWindowsHandler\GetWindowsHandler\bin\Debug\GetWindowsHandler.exe.config
+E:\MyGit\WinFormProgram\GetWindowsHandler\GetWindowsHandler\bin\Debug\GetWindowsHandler.exe
+E:\MyGit\WinFormProgram\GetWindowsHandler\GetWindowsHandler\bin\Debug\GetWindowsHandler.pdb
+E:\MyGit\WinFormProgram\GetWindowsHandler\GetWindowsHandler\obj\Debug\GetWindowsHandler.csprojResolveAssemblyReference.cache
+E:\MyGit\WinFormProgram\GetWindowsHandler\GetWindowsHandler\obj\Debug\GetWindowsHandler.Form1.resources
+E:\MyGit\WinFormProgram\GetWindowsHandler\GetWindowsHandler\obj\Debug\GetWindowsHandler.Properties.Resources.resources
+E:\MyGit\WinFormProgram\GetWindowsHandler\GetWindowsHandler\obj\Debug\GetWindowsHandler.csproj.GenerateResource.Cache
+E:\MyGit\WinFormProgram\GetWindowsHandler\GetWindowsHandler\obj\Debug\GetWindowsHandler.exe
+E:\MyGit\WinFormProgram\GetWindowsHandler\GetWindowsHandler\obj\Debug\GetWindowsHandler.pdb
