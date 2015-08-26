@@ -101,12 +101,14 @@ namespace GetWindowsHandler
         {
             int x;
 
+            //指定窗口的名称
             x = FindWindow(null, "Member's Information and Result.");
             if (x != 0)
             {
                 MessageBox.Show("找到主窗口");
             }
 
+            //借助spy++工具，可以查找到一些类名对应的窗口
             hwnd = FindWindowEx(x, 0, "TPanel",null);//进程界面窗口的句柄,通过SPY获取
             if (hwnd != 0)
             {
@@ -118,6 +120,7 @@ namespace GetWindowsHandler
             {
                 MessageBox.Show("找到TComboBox\n" + Convert.ToString(hwnd));
             }
+            //通过句柄来获取控件内容
             MessageBox.Show(content.GetControlText(hwnd));
 
             hwnd = FindWindowEx(hwnd, 0, "Edit", null);//进程界面窗口的句柄,通过SPY获取
